@@ -1,0 +1,16 @@
+# Ambientes Virtuais
+venv/
+env/
+.env
+
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos do Mac/Windows (Opcional, mas recomendado)
+.DS_Store
+Thumbs.db
